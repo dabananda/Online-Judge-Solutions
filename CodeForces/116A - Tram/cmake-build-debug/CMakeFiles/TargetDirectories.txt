@@ -1,0 +1,3 @@
+D:/My Codes & Projects/Code Forces/116A - Tram/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+D:/My Codes & Projects/Code Forces/116A - Tram/cmake-build-debug/CMakeFiles/116A___Tram.dir
+D:/My Codes & Projects/Code Forces/116A - Tram/cmake-build-debug/CMakeFiles/edit_cache.dir

@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/My Codes & Projects/My Codes/Online Judges/HackerRank/Problem Solving/C++/CLion Workspace/Minimum Distances/main.cpp
+iostream
+-
+cstdlib
+-
+

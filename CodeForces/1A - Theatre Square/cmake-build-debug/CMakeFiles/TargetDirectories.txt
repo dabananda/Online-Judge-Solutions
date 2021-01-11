@@ -1,0 +1,3 @@
+D:/My Codes & Projects/My Codes/Online Judges/Code Forces/C++/CLion Workspace/1A - Theatre Square/cmake-build-debug/CMakeFiles/1A___Theatre_Square.dir
+D:/My Codes & Projects/My Codes/Online Judges/Code Forces/C++/CLion Workspace/1A - Theatre Square/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/My Codes & Projects/My Codes/Online Judges/Code Forces/C++/CLion Workspace/1A - Theatre Square/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+D:/My Codes & Projects/UVa Online Judge/10420 - List of Conquests/cmake-build-debug/CMakeFiles/10420___List_of_Conquests.dir
+D:/My Codes & Projects/UVa Online Judge/10420 - List of Conquests/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/My Codes & Projects/UVa Online Judge/10420 - List of Conquests/cmake-build-debug/CMakeFiles/rebuild_cache.dir

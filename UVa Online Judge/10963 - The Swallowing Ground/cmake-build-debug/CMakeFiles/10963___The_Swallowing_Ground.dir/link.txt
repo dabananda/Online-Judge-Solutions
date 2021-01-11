@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2020.2.3\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\10963___The_Swallowing_Ground.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\10963___The_Swallowing_Ground.dir/objects.a @CMakeFiles\10963___The_Swallowing_Ground.dir\objects1.rsp
+C:\MinGW\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\10963___The_Swallowing_Ground.dir/objects.a -Wl,--no-whole-archive  -o 10963___The_Swallowing_Ground.exe -Wl,--out-implib,lib10963___The_Swallowing_Ground.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\10963___The_Swallowing_Ground.dir\linklibs.rsp

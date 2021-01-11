@@ -1,0 +1,3 @@
+D:/My Codes & Projects/Code Forces/266B - Queue at the School/cmake-build-debug/CMakeFiles/266B___Queue_at_the_School.dir
+D:/My Codes & Projects/Code Forces/266B - Queue at the School/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/My Codes & Projects/Code Forces/266B - Queue at the School/cmake-build-debug/CMakeFiles/rebuild_cache.dir

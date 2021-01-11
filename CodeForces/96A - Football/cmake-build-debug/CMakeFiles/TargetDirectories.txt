@@ -1,0 +1,3 @@
+D:/My Codes & Projects/My Codes/Online Judges/Code Forces/C++/CLion Workspace/96A - Football/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+D:/My Codes & Projects/My Codes/Online Judges/Code Forces/C++/CLion Workspace/96A - Football/cmake-build-debug/CMakeFiles/96A___Football.dir
+D:/My Codes & Projects/My Codes/Online Judges/Code Forces/C++/CLion Workspace/96A - Football/cmake-build-debug/CMakeFiles/edit_cache.dir

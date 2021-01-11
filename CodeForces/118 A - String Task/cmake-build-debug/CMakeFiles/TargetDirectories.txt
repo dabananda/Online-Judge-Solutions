@@ -1,0 +1,3 @@
+D:/My Codes & Projects/My Codes/Online Judges/Code Forces/C++/CLion Workspace/118 A - String Task/cmake-build-debug/CMakeFiles/118_A___String_Task.dir
+D:/My Codes & Projects/My Codes/Online Judges/Code Forces/C++/CLion Workspace/118 A - String Task/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/My Codes & Projects/My Codes/Online Judges/Code Forces/C++/CLion Workspace/118 A - String Task/cmake-build-debug/CMakeFiles/rebuild_cache.dir

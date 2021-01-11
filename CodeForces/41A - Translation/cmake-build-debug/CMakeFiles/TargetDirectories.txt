@@ -1,0 +1,3 @@
+C:/Users/dmitr/My Codes & Projects/Code Forces/41A - Translation/cmake-build-debug/CMakeFiles/41A___Translation.dir
+C:/Users/dmitr/My Codes & Projects/Code Forces/41A - Translation/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/dmitr/My Codes & Projects/Code Forces/41A - Translation/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/My Codes & Projects/My Codes/Online Judges/Code Forces/C++/CLion Workspace/617A - Elephant/main.cpp
+iostream
+-
+

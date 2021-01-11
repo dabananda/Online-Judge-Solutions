@@ -1,0 +1,3 @@
+D:/My Codes & Projects/Code Forces/C++/CLion Workspace/263A - Beautiful Matrix/cmake-build-debug/CMakeFiles/263A___Beautiful_Matrix.dir
+D:/My Codes & Projects/Code Forces/C++/CLion Workspace/263A - Beautiful Matrix/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/My Codes & Projects/Code Forces/C++/CLion Workspace/263A - Beautiful Matrix/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+D:/My Codes & Projects/UVa Online Judge/Competitive Programming 3/Introduction/Easy/12157 - Tariff Plan/cmake-build-debug/CMakeFiles/12157___Tariff_Plan.dir
+D:/My Codes & Projects/UVa Online Judge/Competitive Programming 3/Introduction/Easy/12157 - Tariff Plan/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/My Codes & Projects/UVa Online Judge/Competitive Programming 3/Introduction/Easy/12157 - Tariff Plan/cmake-build-debug/CMakeFiles/rebuild_cache.dir

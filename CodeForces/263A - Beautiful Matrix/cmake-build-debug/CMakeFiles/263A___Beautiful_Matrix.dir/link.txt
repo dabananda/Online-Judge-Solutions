@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2020.2.3\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\263A___Beautiful_Matrix.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\263A___Beautiful_Matrix.dir/objects.a @CMakeFiles\263A___Beautiful_Matrix.dir\objects1.rsp
+C:\MinGW\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\263A___Beautiful_Matrix.dir/objects.a -Wl,--no-whole-archive  -o 263A___Beautiful_Matrix.exe -Wl,--out-implib,lib263A___Beautiful_Matrix.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\263A___Beautiful_Matrix.dir\linklibs.rsp

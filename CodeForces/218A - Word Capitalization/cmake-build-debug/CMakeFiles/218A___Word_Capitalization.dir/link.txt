@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2020.1.2\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\218A___Word_Capitalization.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\218A___Word_Capitalization.dir/objects.a @CMakeFiles\218A___Word_Capitalization.dir\objects1.rsp
+C:\MinGW\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\218A___Word_Capitalization.dir/objects.a -Wl,--no-whole-archive  -o 218A___Word_Capitalization.exe -Wl,--out-implib,lib218A___Word_Capitalization.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\218A___Word_Capitalization.dir\linklibs.rsp

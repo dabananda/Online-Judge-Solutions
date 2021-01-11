@@ -1,0 +1,3 @@
+/media/mrnoob/New Volume/My Codes & Projects/My Codes/Online Judges/Code Forces/C++/CLion Workspace/266A - Stones on the Table/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/media/mrnoob/New Volume/My Codes & Projects/My Codes/Online Judges/Code Forces/C++/CLion Workspace/266A - Stones on the Table/cmake-build-debug/CMakeFiles/edit_cache.dir
+/media/mrnoob/New Volume/My Codes & Projects/My Codes/Online Judges/Code Forces/C++/CLion Workspace/266A - Stones on the Table/cmake-build-debug/CMakeFiles/266A___Stones_on_the_Table.dir

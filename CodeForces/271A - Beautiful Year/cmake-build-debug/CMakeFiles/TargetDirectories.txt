@@ -1,0 +1,3 @@
+D:/My Codes & Projects/CodeForces/271A - Beautiful Year/cmake-build-debug/CMakeFiles/271A___Beautiful_Year.dir
+D:/My Codes & Projects/CodeForces/271A - Beautiful Year/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/My Codes & Projects/CodeForces/271A - Beautiful Year/cmake-build-debug/CMakeFiles/rebuild_cache.dir

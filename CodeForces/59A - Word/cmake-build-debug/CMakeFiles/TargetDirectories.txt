@@ -1,0 +1,3 @@
+C:/Users/dmitr/My Codes & Projects/Code Forces/59A - Word/cmake-build-debug/CMakeFiles/59A___Word.dir
+C:/Users/dmitr/My Codes & Projects/Code Forces/59A - Word/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/dmitr/My Codes & Projects/Code Forces/59A - Word/cmake-build-debug/CMakeFiles/rebuild_cache.dir

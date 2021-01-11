@@ -1,0 +1,3 @@
+D:/My Codes & Projects/CodeForces/61A - Ultra-Fast Mathematician/cmake-build-debug/CMakeFiles/61A___Ultra_Fast_Mathematician.dir
+D:/My Codes & Projects/CodeForces/61A - Ultra-Fast Mathematician/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/My Codes & Projects/CodeForces/61A - Ultra-Fast Mathematician/cmake-build-debug/CMakeFiles/rebuild_cache.dir

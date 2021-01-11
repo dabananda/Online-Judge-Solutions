@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2020.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\Minimum_Distances.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\Minimum_Distances.dir/objects.a @CMakeFiles\Minimum_Distances.dir\objects1.rsp
+C:\MinGW\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\Minimum_Distances.dir/objects.a -Wl,--no-whole-archive  -o Minimum_Distances.exe -Wl,--out-implib,libMinimum_Distances.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Minimum_Distances.dir\linklibs.rsp

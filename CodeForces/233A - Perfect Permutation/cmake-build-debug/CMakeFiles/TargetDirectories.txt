@@ -1,0 +1,3 @@
+D:/My Codes & Projects/CodeForces/233A - Perfect Permutation/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+D:/My Codes & Projects/CodeForces/233A - Perfect Permutation/cmake-build-debug/CMakeFiles/233A___Perfect_Permutation.dir
+D:/My Codes & Projects/CodeForces/233A - Perfect Permutation/cmake-build-debug/CMakeFiles/edit_cache.dir

@@ -1,0 +1,3 @@
+D:/My Codes & Projects/UVa Online Judge/10035 - Primary Arithmetic/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/My Codes & Projects/UVa Online Judge/10035 - Primary Arithmetic/cmake-build-debug/CMakeFiles/10035___Primary_Arithmetic.dir
+D:/My Codes & Projects/UVa Online Judge/10035 - Primary Arithmetic/cmake-build-debug/CMakeFiles/rebuild_cache.dir

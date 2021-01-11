@@ -1,0 +1,3 @@
+D:/My Codes & Projects/CodeForces/32B - Borze/cmake-build-debug/CMakeFiles/32B___Borze.dir
+D:/My Codes & Projects/CodeForces/32B - Borze/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/My Codes & Projects/CodeForces/32B - Borze/cmake-build-debug/CMakeFiles/rebuild_cache.dir

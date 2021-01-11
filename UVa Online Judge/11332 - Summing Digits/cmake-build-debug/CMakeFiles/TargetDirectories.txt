@@ -1,0 +1,3 @@
+D:/My Codes & Projects/UVa Online Judge/Competitive Programming 3/Introduction/Easy/11332 - Summing Digits/cmake-build-debug/CMakeFiles/11332___Summing_Digits.dir
+D:/My Codes & Projects/UVa Online Judge/Competitive Programming 3/Introduction/Easy/11332 - Summing Digits/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/My Codes & Projects/UVa Online Judge/Competitive Programming 3/Introduction/Easy/11332 - Summing Digits/cmake-build-debug/CMakeFiles/rebuild_cache.dir

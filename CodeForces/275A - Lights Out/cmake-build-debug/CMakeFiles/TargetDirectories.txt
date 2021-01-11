@@ -1,0 +1,3 @@
+D:/My Codes & Projects/CodeForces/275A - Lights Out/cmake-build-debug/CMakeFiles/275A___Lights_Out.dir
+D:/My Codes & Projects/CodeForces/275A - Lights Out/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/My Codes & Projects/CodeForces/275A - Lights Out/cmake-build-debug/CMakeFiles/rebuild_cache.dir

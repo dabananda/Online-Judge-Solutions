@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2020.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\Equalize_the_Array.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\Equalize_the_Array.dir/objects.a @CMakeFiles\Equalize_the_Array.dir\objects1.rsp
+C:\MinGW\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\Equalize_the_Array.dir/objects.a -Wl,--no-whole-archive  -o Equalize_the_Array.exe -Wl,--out-implib,libEqualize_the_Array.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Equalize_the_Array.dir\linklibs.rsp

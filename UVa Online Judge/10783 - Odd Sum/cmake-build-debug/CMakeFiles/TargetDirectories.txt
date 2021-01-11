@@ -1,0 +1,3 @@
+D:/My Codes & Projects/UVa Online Judge/10783 - Odd Sum/cmake-build-debug/CMakeFiles/10783___Odd_Sum.dir
+D:/My Codes & Projects/UVa Online Judge/10783 - Odd Sum/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/My Codes & Projects/UVa Online Judge/10783 - Odd Sum/cmake-build-debug/CMakeFiles/rebuild_cache.dir

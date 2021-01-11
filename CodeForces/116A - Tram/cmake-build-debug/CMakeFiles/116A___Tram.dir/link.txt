@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2020.2.4\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\116A___Tram.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\116A___Tram.dir/objects.a @CMakeFiles\116A___Tram.dir\objects1.rsp
+C:\MinGW\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\116A___Tram.dir/objects.a -Wl,--no-whole-archive  -o 116A___Tram.exe -Wl,--out-implib,lib116A___Tram.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\116A___Tram.dir\linklibs.rsp

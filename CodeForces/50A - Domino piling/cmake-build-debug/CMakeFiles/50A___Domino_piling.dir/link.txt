@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2020.2.3\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\50A___Domino_piling.dir/objects.a
+C:\MinGW\bin\ar.exe cr CMakeFiles\50A___Domino_piling.dir/objects.a @CMakeFiles\50A___Domino_piling.dir\objects1.rsp
+C:\MinGW\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\50A___Domino_piling.dir/objects.a -Wl,--no-whole-archive  -o 50A___Domino_piling.exe -Wl,--out-implib,lib50A___Domino_piling.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\50A___Domino_piling.dir\linklibs.rsp

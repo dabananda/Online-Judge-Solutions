@@ -1,0 +1,3 @@
+D:/My Codes & Projects/Code Forces/110A - Nearly Lucky Number/cmake-build-debug/CMakeFiles/110A___Nearly_Lucky_Number.dir
+D:/My Codes & Projects/Code Forces/110A - Nearly Lucky Number/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/My Codes & Projects/Code Forces/110A - Nearly Lucky Number/cmake-build-debug/CMakeFiles/rebuild_cache.dir

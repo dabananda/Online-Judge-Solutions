@@ -1,0 +1,3 @@
+D:/My Codes & Projects/My Codes/Online Judges/Code Forces/C++/CLion Workspace/112A - Petya and Strings/cmake-build-debug/CMakeFiles/112A___Petya_and_Strings.dir
+D:/My Codes & Projects/My Codes/Online Judges/Code Forces/C++/CLion Workspace/112A - Petya and Strings/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/My Codes & Projects/My Codes/Online Judges/Code Forces/C++/CLion Workspace/112A - Petya and Strings/cmake-build-debug/CMakeFiles/rebuild_cache.dir

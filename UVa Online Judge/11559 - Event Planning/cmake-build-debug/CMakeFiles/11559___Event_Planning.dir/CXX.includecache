@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/My Codes & Projects/UVa Online Judge/Competitive Programming 3/Introduction/Easy/11559 - Event Planning/main.cpp
+iostream
+-
+algorithm
+-
+
