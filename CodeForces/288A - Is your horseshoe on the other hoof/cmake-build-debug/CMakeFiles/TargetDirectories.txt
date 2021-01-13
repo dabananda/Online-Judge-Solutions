@@ -1,0 +1,3 @@
+D:/Online-Judge-Solutions/CodeForces/288A - Is your horseshoe on the other hoof/cmake-build-debug/CMakeFiles/288A___Is_your_horseshoe_on_the_other_hoof.dir
+D:/Online-Judge-Solutions/CodeForces/288A - Is your horseshoe on the other hoof/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Online-Judge-Solutions/CodeForces/288A - Is your horseshoe on the other hoof/cmake-build-debug/CMakeFiles/rebuild_cache.dir

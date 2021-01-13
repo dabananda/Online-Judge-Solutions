@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.17)
+project(288A___Is_your_horseshoe_on_the_other_hoof)
+
+set(CMAKE_CXX_STANDARD 14)
+
+add_executable(288A___Is_your_horseshoe_on_the_other_hoof main.cpp)
