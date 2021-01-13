@@ -1,0 +1,3 @@
+D:/Online-Judge-Solutions/CodeForces/155A - I_love_%username%/cmake-build-debug/CMakeFiles/155A___I_love__username_.dir
+D:/Online-Judge-Solutions/CodeForces/155A - I_love_%username%/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Online-Judge-Solutions/CodeForces/155A - I_love_%username%/cmake-build-debug/CMakeFiles/rebuild_cache.dir
