@@ -1,0 +1,3 @@
+D:/Online-Judge-Solutions/ISTT Individual Contest/ISTT Individual Contest 12/TestProgram/cmake-build-debug/CMakeFiles/TestProgram.dir
+D:/Online-Judge-Solutions/ISTT Individual Contest/ISTT Individual Contest 12/TestProgram/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Online-Judge-Solutions/ISTT Individual Contest/ISTT Individual Contest 12/TestProgram/cmake-build-debug/CMakeFiles/rebuild_cache.dir
