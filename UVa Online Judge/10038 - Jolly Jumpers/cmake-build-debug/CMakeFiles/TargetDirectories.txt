@@ -1,3 +1,0 @@
-D:/My Codes & Projects/UVa Online Judge/10038 - Jolly Jumpers/cmake-build-debug/CMakeFiles/10038___Jolly_Jumpers.dir
-D:/My Codes & Projects/UVa Online Judge/10038 - Jolly Jumpers/cmake-build-debug/CMakeFiles/edit_cache.dir
-D:/My Codes & Projects/UVa Online Judge/10038 - Jolly Jumpers/cmake-build-debug/CMakeFiles/rebuild_cache.dir
