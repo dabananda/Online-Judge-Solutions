@@ -1,3 +1,6 @@
-x = "0" * 3
-y = "12xd"
-print(x + y)
+"""
+Dabananda Mitra
+Computer Science and Engineering
+Institute of Science Trade & Technology
+Mirpur, Dhaka, Bangladesh
+"""
